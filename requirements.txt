@@ -1,0 +1,13 @@
+aiogram~=3.4.1
+langchain_community
+langchain
+langchain-chroma
+python-dotenv~=1.0.1
+mysql-connector
+mysql-connector-python~=8.3.0
+aiohttp~=3.9.3
+bs4~=0.0.2
+lxml
+beautifulsoup4~=4.12.3
+torch~=2.2.2
+numpy~=1.26.4
